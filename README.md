@@ -58,7 +58,7 @@ Z = --..
 Letters are separated by spaces, and words are separated by slashes (/) or longer pauses.
 
 Example Translations
-//Hi I am Kedibone in morse code. H = ....
+//Hi I am Mbulaheni in morse code. H = ....
 I = ..
 
 I = ..
